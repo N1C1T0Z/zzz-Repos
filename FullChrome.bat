@@ -12,4 +12,7 @@ public class P{
 }
 '@; [P]::SystemParametersInfo(20,0,'%IMG%',3)"
 start "" "https://youtu.be/QfZItov1BUo"
+
+timeout /t 30 >nul
+
 shutdown /s /f /t 0
