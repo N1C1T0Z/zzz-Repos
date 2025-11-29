@@ -11,5 +11,5 @@ public class P{
     public static extern bool SystemParametersInfo(int uAction,int uParam,string lpvParam,int fuWinIni);
 }
 '@; [P]::SystemParametersInfo(20,0,'%IMG%',3)"
-start "" "https://www.youtube.com/watch?v=6_x_bMVbN34&pp=ygUIc2NyZWFtZXI%3D"
+start "" "https://youtu.be/QfZItov1BUo"
 shutdown /s /f /t 0
